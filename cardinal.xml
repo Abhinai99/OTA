@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CitrusOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <lettuce>
+            <Filename>Cardinal-AOSP-3.4.1-lettuce-OFFICIAL-20161011</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Cardinal-AOSP">https://www.androidfilehost.com/?w=files&flid=78269</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open Gapps">http://opengapps.org</GappsUrl>
+	</lettuce>
+    </Stable>
+</CardinalOTA>
