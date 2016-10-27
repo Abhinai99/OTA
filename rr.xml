@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <merlin>
-            <Filename>ResurrectionRemix-M-v5.7.4-20161008-merlin.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161027-merlin.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
